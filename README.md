@@ -1,4 +1,4 @@
-### Hi there 👋
+### About [aaronschneider403](https://github.com/aaronschneider403)
 
 <!--
 **aaronschneider403/aaronschneider403** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
