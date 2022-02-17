@@ -4,6 +4,6 @@
 
 [@aaronschneider7797](https://github.com/aaronschneider7797) is a developer and a computer expert from Switzerland. He has an experience of programming and has developed some programs under public domain. He loves computers and software.
 
-<img src="https://github.com/aaronschneider7797/aaronschneider7797/blob/main/README.md" />
+<img height="300em" src="https://github-readme-stats.vercel.app/api?username=aaronschneider7797&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 ##
