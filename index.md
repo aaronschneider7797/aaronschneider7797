@@ -8,4 +8,4 @@
 
 ## Projects
 
-<img height="12em" src="https://raw.githubusercontent.com/Team-Burnuts/BurnutsPlusTNTandDisparityMod/master/brands/274727138_1128217694697924_5157666317257511031_n.png">[ TNT and Disparity Mod](https://github.com/Team-Burnuts/BurnutsPlusTNTandDisparityMod)
+<img height="20em" src="https://raw.githubusercontent.com/Team-Burnuts/BurnutsPlusTNTandDisparityMod/master/brands/274727138_1128217694697924_5157666317257511031_n.png">[ TNT and Disparity Mod](https://github.com/Team-Burnuts/BurnutsPlusTNTandDisparityMod)
