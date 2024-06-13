@@ -33,7 +33,11 @@
     <p>This section highlights my daily activity, showcasing the repositories I am currently working on. Each commit represents progress or fixes to ongoing projects, reflecting my commitment to contiuous improvment and collaborative development. Dive into the commit messages for insights into what I've been up to!</p>
 </div>
 <div align="center">
-    <img src="https://raw.githubusercontent.com/aaronschneider7797/aaronschneider7797/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+    <img alt="github-snake" src="github-snake.svg" />
+  </picture>
 </div>
 <div align="center">
     <h2>💻 Programming Languages</h2>
